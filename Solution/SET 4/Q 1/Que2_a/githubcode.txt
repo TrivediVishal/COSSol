@@ -1,0 +1,12 @@
+# Create a new directory for the project
+mkdir ReverseNumberProject
+cd ReverseNumberProject
+
+# Initialize a Git repository
+git init
+
+# Create the Java file and add it to the repository
+echo '... (copy the Java code here) ...' > ReverseNumber.java
+git add ReverseNumber.java
+git commit -m "Initial commit"
+

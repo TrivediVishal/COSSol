@@ -1,0 +1,13 @@
+#!/bin/bash
+
+# Prompt the user for three numbers
+read -p "Enter the first number: " num1
+read -p "Enter the second number: " num2
+read -p "Enter the third number: " num3
+
+
+sum=$((num1 + num2 + num3))
+average=$(echo "scale=2; $sum / 3" | bc)  # Using bc for floating-point arithmetic
+
+
+echo "The average of $num1, $num2, and $num3 is: $average"

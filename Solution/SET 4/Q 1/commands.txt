@@ -1,0 +1,4 @@
+Q-1 (2) (i) sed -n '1,3p' cdac.txt  (ii) sed -i '2 a Hello there' cdac.txt
+    (4) (i) sudo useradd cdac (ii) sudo userdel -r cdac
+
+

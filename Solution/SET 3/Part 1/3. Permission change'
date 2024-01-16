@@ -1,0 +1,6 @@
+# Create the file
+touch cdac.jsp
+
+# Change permissions to allow only the owner to make changes
+chmod 600 cdac.jsp
+

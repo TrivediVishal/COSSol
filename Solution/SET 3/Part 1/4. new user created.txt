@@ -1,0 +1,5 @@
+# Add a new user named cdac
+sudo adduser cdac
+
+# Change the owner of the file to cdac
+sudo chown cdac: cdac.jsp

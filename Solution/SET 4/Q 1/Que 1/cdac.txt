@@ -1,0 +1,6 @@
+Bash scripting lets you automate repetitive tasks.
+Bash scripting is incredibly versatile.
+Hello there
+Fascinating world of Bash scripting.
+Shell script is another language scripting language.
+It is used in linux to write it.
